@@ -14,3 +14,4 @@ Alternatively:
 2. right click on index.html and select `Open with live server`
 
 This is a project that uses markdown, html5 and es6 to make a single page blog or portfolio. Look in the pages or items folder to see the markdown and the index.js meta-data.# Assignment-4
+# Assignment-4-final
